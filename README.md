@@ -13,4 +13,6 @@ Estudante de Desenvolvimento Web e Mobile, entusiasta de programação e apaixon
             <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
                 <img align="center" alt="kotlin" src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white">
                     <img align="center" alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-</div>
+</div></br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sramerico&langs_count=10&layout=compact&theme=transparent&locale=pt-br&hide_progress=true)](https://github.com/sramerico/github-readme-stats)

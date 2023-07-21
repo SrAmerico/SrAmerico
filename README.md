@@ -1,7 +1,7 @@
 # Olá, 
 ## Eu sou o Vitor Américo ✋</br>
 
-Estudante de Desenvolvimento Web e Mobile, entusiasta de programação e apaixonado por explorar novas tecnologias para criar soluções inovadoras.
+Estudante de Desenvolvimento Web e Mobile, entusiasta de programação e apaixonado por explorar novas tecnologias para criar soluções ainda mais inovadoras.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sramerico&show_icons=true&theme=radical)
 
